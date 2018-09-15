@@ -1,11 +1,29 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": 
+  {
+    "roomId": "R123",
+    "playersCount": 4,
+    "maxBet": 1000000.0,
+    "minBet": 200000.0,
+    "smallBlind": 10000.0,
+    "bigBlind": 20000.0,
+    "player": [
+    	{
+    		"order": 1,
+    		"playerId": "p12"
+    	},
+    	{
+    		"order": 2,
+    		"playerId": "p34"
+    	},
+    	{
+    		"order": 3,
+    		"playerId": "p14"
+    	},
+    	{
+    		"order": 4,
+    		"playerId": "p22"
+    	},
+    ]
   }
 }
