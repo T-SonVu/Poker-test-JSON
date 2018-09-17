@@ -8,22 +8,30 @@
     "smallBlind": 10000.0,
     "bigBlind": 20000.0,
     "player": [
-    	{
-    		"order": 1,
-    		"playerId": "p12"
-    	},
-    	{
-    		"order": 2,
-    		"playerId": "p34"
-    	},
-    	{
-    		"order": 3,
-    		"playerId": "p14"
-    	},
-    	{
-    		"order": 4,
-    		"playerId": "p22"
-    	}
+		{
+			"order": 1,
+			"playerId": "p12"
+		},
+		{
+			"order": 2,
+			"playerId": "p34"
+		},
+		{
+			"order": 3,
+			"playerId": "p14"
+		},
+		{
+			"order": 4,
+			"playerId": "p22"
+		},
+		{
+			"order": 5,
+			"playerId": "p21"
+		},
+		{
+			"order": 6,
+			"playerId": "p52"
+		}
     ]
   }
 }
